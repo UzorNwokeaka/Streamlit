@@ -1,5 +1,6 @@
 PART 1:
 ---
+PART 1:
 
 # 💡 Even Better (Make It Cross-Platform)
 
@@ -16,6 +17,8 @@ So you can write:
 ### Change into apps folder 
 ``` terminal
 .\venv\Scripts\python.exe -m streamlit run .\apps\app.py
+
+
 
 
 PART 2:
