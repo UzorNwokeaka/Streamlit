@@ -18,22 +18,4 @@ So you can write:
 ``` terminal
 .\venv\Scripts\python.exe -m streamlit run .\apps\app.py
 
-PART 2:
 
-Problem: Titanic survival prediction
-
-Stack: Python, scikit-learn, Streamlit, AWS EC2
-
-Features:
-
-Login authentication
-
-Real-time predictions
-
-Probability output
-
-Deployment:
-
-Live on EC2
-
-Accessible via public IP
